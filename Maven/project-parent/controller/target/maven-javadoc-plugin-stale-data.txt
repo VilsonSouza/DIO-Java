@@ -1,0 +1,47 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Estudos/Aulas a parte/Bootcamp Java/Maven/project-parent/controller/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Estudos/Aulas a parte/Bootcamp Java/Maven/project-parent/controller/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'controller 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Estudos/Aulas a parte/Bootcamp Java/Maven/project-parent/controller/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'controller 1.0-SNAPSHOT API'
+one.eumemu
+'C:/Estudos/Aulas a parte/Bootcamp Java/Maven/project-parent/controller/src/main/java/one/eumemu/App.java'
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\src\main\java = 1667757355709
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\allclasses-index.html = 1667852709507
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\allpackages-index.html = 1667852709513
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\copy.svg = 1667852709577
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\element-list = 1667852709417
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\help-doc.html = 1667852709565
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\index-all.html = 1667852709540
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\index.html = 1667852709545
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\jquery-ui.overrides.css = 1667852709665
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\member-search-index.js = 1667852709525
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\module-search-index.js = 1667852709516
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\overview-tree.html = 1667852709480
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\package-search-index.js = 1667852709519
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\script.js = 1667852709574
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\search.js = 1667852709594
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\stylesheet.css = 1667852709571
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\tag-search-index.js = 1667852709527
+C:\Estudos\Aulas a parte\Bootcamp Java\Maven\project-parent\controller\target\site\apidocs\type-search-index.js = 1667852709523
